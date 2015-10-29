@@ -9,4 +9,5 @@
                "scheme-lib"
                "schemeunit"
                "slideshow-lib"
-               "typed-racket-lib"))
+               "typed-racket-lib"
+               "lang-slide"))

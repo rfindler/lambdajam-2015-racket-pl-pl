@@ -1,6 +1,6 @@
 #lang racket/base
 (require "util.rkt"
-         (file "/Users/robby/git/samth/lang-slide/lang-slide/main.rkt")
+         lang-slide
          racket/gui/base
          slideshow/code
          slideshow
